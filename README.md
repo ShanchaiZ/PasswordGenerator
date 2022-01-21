@@ -17,11 +17,12 @@ HTML, CSS and Javascript
 4. Pseudocoding helps keep the javascript variables and logic organized.
 5. I had fun with this project!!
 
+# Screenshot:
+
+![PasswordGenerator](./Assets/PasswordGeneratorScreenshot.png)
+
 # Launch Deployed link:
 
 Launch date: 20 Jan 2022.
 
 Link to Deployed Project: https://shanchaiz.github.io/PasswordGenerator/
-
-
-
