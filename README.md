@@ -21,7 +21,7 @@ HTML, CSS and Javascript
 
 Launch date: 20 Jan 2022.
 
-Link to Deployed Project: 
+Link to Deployed Project: https://shanchaiz.github.io/PasswordGenerator/
 
 
 
